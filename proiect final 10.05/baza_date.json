@@ -1,0 +1,36 @@
+{
+    "users": {
+        "user1": {
+            "email": "user1@example.com",
+            "parola": "Parola1"
+        },
+        "user2": {
+            "email": "user2@example.com",
+            "parola": "Parola2"
+        },
+        "user3": {
+            "email": "user3@example.com",
+            "parola": "Parola3"
+        },
+        "user4": {
+            "email": "user4@example.com",
+            "parola": "Parola4"
+        },
+        "user5": {
+            "email": "user5@example.com",
+            "parola": "Parola5"
+        },
+        "user11": {
+            "email": "user11@gmail.com",
+            "parola": "Parola11"
+        },
+        "sasasa": {
+            "email": "user11@example.com",
+            "parola": "sasasaW1@@!1A"
+        },
+        "user13": {
+            "email": "sasasa@gmail.com",
+            "parola": "sasasD1!"
+        }
+    }
+}
